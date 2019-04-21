@@ -8,4 +8,5 @@ fun demo2() {
     var otherName : String?
     otherName = null
     print(otherName)
+
 }
