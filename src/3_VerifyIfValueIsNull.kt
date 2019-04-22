@@ -7,7 +7,7 @@ fun main(args: Array<String>) {
 
 fun demo3() {
 
-    val text = "Hello"
+    val text = "Hello World"
 
     text?.let {
         val length = text.length
