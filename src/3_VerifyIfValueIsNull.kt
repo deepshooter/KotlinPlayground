@@ -1,3 +1,5 @@
+//Verify if value is null
+
 fun main(args: Array<String>) {
 
     demo3()

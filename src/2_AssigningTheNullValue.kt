@@ -1,3 +1,5 @@
+//Assigning the null value
+
 fun main(args: Array<String>) {
 
     demo2()
@@ -5,7 +7,7 @@ fun main(args: Array<String>) {
 
 fun demo2() {
 
-    var otherName : String?
+    var otherName: String?
     otherName = null
     print(otherName)
 
