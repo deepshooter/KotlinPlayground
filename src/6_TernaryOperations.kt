@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
     demo6()
 
 }
-l
+
 fun demo6() {
 
     val x = 10
