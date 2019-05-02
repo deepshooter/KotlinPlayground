@@ -1,3 +1,5 @@
+package Practice
+
 //Verify if value is null
 
 fun main(args: Array<String>) {

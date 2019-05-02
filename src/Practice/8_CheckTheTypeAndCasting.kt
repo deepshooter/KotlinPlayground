@@ -1,3 +1,5 @@
+package Practice
+
 // Check the type and casting
 
 fun main(args: Array<String>) {

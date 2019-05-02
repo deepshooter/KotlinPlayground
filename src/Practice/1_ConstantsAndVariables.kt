@@ -1,3 +1,5 @@
+package Practice
+
 //Constants and Variables
 
 fun main(args: Array<String>) {

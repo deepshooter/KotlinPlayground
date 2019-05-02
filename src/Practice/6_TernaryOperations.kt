@@ -1,3 +1,5 @@
+package Practice
+
 // Ternary Operations
 
 fun main(args: Array<String>) {

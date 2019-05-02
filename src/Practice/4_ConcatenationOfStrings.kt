@@ -1,3 +1,5 @@
+package Practice
+
 //Concatenation of strings
 
 fun main(args: Array<String>) {

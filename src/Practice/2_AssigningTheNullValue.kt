@@ -1,3 +1,5 @@
+package Practice
+
 //Assigning the null value
 
 fun main(args: Array<String>) {

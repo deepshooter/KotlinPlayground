@@ -1,3 +1,5 @@
+package Practice
+
 //New line in string
 
 fun main(args: Array<String>) {
