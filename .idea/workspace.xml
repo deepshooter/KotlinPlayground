@@ -3,18 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f79162cd-60c8-40e1-8f00-1ff4f5ec7317" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0_HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/0_HelloWorld.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/10_ForLoopsAndCollections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/10_ForLoopsAndCollections.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/11_DataClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/11_DataClass.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1_ConstantsAndVariables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/1_ConstantsAndVariables.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2_AssigningTheNullValue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/2_AssigningTheNullValue.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3_VerifyIfValueIsNull.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/3_VerifyIfValueIsNull.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4_ConcatenationOfStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/4_ConcatenationOfStrings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/5_NewLineInString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/5_NewLineInString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/6_TernaryOperations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/6_TernaryOperations.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/7_Bitwise_Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/7_Bitwise_Operators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/8_CheckTheTypeAndCasting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/8_CheckTheTypeAndCasting.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/9_SwitchCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/9_SwitchCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="306">
+              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -87,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,12 +99,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556770735160" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556793642421" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -226,7 +215,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29554656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30040485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,10 +330,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/KotlinPlayground/KotlinProgramming/FirstFileKt.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="306">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
