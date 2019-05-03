@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f79162cd-60c8-40e1-8f00-1ff4f5ec7317" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt" afterDir="false" />
-    </list>
+    <list default="true" id="f79162cd-60c8-40e1-8f00-1ff4f5ec7317" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +12,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt">
+        <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/SecondFile.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-248">
-              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+            <state relative-caret-position="306">
+              <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -59,6 +56,7 @@
         <option value="$PROJECT_DIR$/src/10_ForLoopsAndCollections.kt" />
         <option value="$PROJECT_DIR$/src/11_ForEach.kt" />
         <option value="$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt" />
+        <option value="$PROJECT_DIR$/src/KotlinProgramming/SecondFile.kt" />
       </list>
     </option>
   </component>
@@ -103,7 +101,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556857135228" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556859045620" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -122,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.KotlinProgramming.FirstFileKt">
+  <component name="RunManager" selected="Kotlin.KotlinProgramming.SecondFileKt">
     <configuration name="KotlinProgramming.FirstFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPlayground" />
       <option name="VM_PARAMETERS" />
@@ -136,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KotlinProgramming.SecondFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPlayground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="KotlinProgramming.SecondFileKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice._10_ForLoopsAndCollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPlayground" />
       <option name="VM_PARAMETERS" />
@@ -144,19 +155,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Practice._10_ForLoopsAndCollectionsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice._6_TernaryOperationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPlayground" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Practice._6_TernaryOperationsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -190,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KotlinProgramming.SecondFileKt" />
         <item itemvalue="Kotlin.KotlinProgramming.FirstFileKt" />
         <item itemvalue="Kotlin.Practice._10_ForLoopsAndCollectionsKt" />
         <item itemvalue="Kotlin.Practice._9_SwitchCaseKt" />
         <item itemvalue="Kotlin.Practice._7_Bitwise_OperatorsKt" />
-        <item itemvalue="Kotlin.Practice._6_TernaryOperationsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -335,8 +333,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/FirstFile.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
+        <state relative-caret-position="408">
           <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/SecondFile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
         </state>
       </provider>
     </entry>
