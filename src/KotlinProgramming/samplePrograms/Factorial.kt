@@ -9,5 +9,5 @@ fun main(args: Array<String>) {
         factorial *= i.toLong()
     }
     println("Factorial of $num = $factorial")
-    
+
 }
