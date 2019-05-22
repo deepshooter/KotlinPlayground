@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f79162cd-60c8-40e1-8f00-1ff4f5ec7317" name="Default Changelist" comment="" />
+    <list default="true" id="f79162cd-60c8-40e1-8f00-1ff4f5ec7317" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,35 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_13.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_14.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_12.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_11.kt" />
         <option value="$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_12.kt" />
         <option value="$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_13.kt" />
+        <option value="$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_14.kt" />
       </list>
     </option>
   </component>
@@ -112,41 +87,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="KotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinPlayground" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="KotlinProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="KotlinProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="samplePrograms" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558422942191" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558503884373" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -165,20 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.KotlinProgramming.samplePrograms.Question_14Kt">
-    <configuration name="KotlinProgramming.samplePrograms.Question_10Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPlayground" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="KotlinProgramming.samplePrograms.Question_10Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.KotlinProgramming.samplePrograms.Question_15Kt">
     <configuration name="KotlinProgramming.samplePrograms.Question_11Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPlayground" />
       <option name="VM_PARAMETERS" />
@@ -231,13 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KotlinProgramming.samplePrograms.Question_15Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPlayground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="KotlinProgramming.samplePrograms.Question_15Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KotlinProgramming.samplePrograms.Question_15Kt" />
         <item itemvalue="Kotlin.KotlinProgramming.samplePrograms.Question_14Kt" />
         <item itemvalue="Kotlin.KotlinProgramming.samplePrograms.Question_13Kt" />
         <item itemvalue="Kotlin.KotlinProgramming.samplePrograms.Question_12Kt" />
         <item itemvalue="Kotlin.KotlinProgramming.samplePrograms.Question_11Kt" />
-        <item itemvalue="Kotlin.KotlinProgramming.samplePrograms.Question_10Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -256,9 +203,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24048583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24453442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KotlinProgramming/samplePrograms/Question_14.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
